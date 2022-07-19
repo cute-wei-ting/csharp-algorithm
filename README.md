@@ -2,5 +2,5 @@
 複習演算法
 
 - Sorter
-	- QuickSorter
-	- MergeSorter
+	- [QuickSorter](Algorithms/Sorters/QuickSorter.cs)
+	- [MergeSorter](Algorithms/Sorters/MergeSorter.cs)
