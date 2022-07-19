@@ -7,7 +7,7 @@ namespace Algorithms.Sorters
     //  time complexity average: O(n log(n)),
     //  time complexity worst: O(n^2),
     //  space complexity: O(log(n)), stack 使用
-    public static class QuickerSorter
+    public static class QuickSorter
     {
         public static void QuickSort<T>(this IList<T> collection,IComparer<T> comparer = null)
         {

@@ -8,7 +8,7 @@ using Xunit;
 
 namespace Algorithms.Test.Sorters
 {
-    public static class QuickerSortTest
+    public static class QuickSortTest
     {
         [Fact]
         public static void IntTest()
